@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(221, 99, 237);
+    display: flex;
+    justify-content: center;
+
+    height: 100vh;
+}
+
+.h {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    height: 86px;
+    width: 86px;
+    border-radius: 20px;
+    margin: 5px;
+    font-size: 40px;
+    color: rgb(80, 210, 69);
+    background-color: rgb(249, 246, 177);
+}
+
